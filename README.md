@@ -13,7 +13,7 @@ Inference Speed: ~1000 images/min (GPU)
 ```bash
 pip install -r requirements.txt
 ```
-After including the zip.tar in the repository, please run the pipeline with 
+After including the zip.tar in the repository, please run the pipeline with, for example,
 ```bash
 python run.py zip1.tar --output-dir ./results 
 ```
