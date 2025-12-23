@@ -17,3 +17,6 @@ After including the zip.tar in the repository, please run the pipeline with, for
 ```bash
 python run.py zip1.tar --output-dir ./results 
 ```
+
+**results/outputs**
+all_predictions.parquet is the combined results (all tar files), and zip1_predictions.parquet is individual predictions for zip1.tar.
