@@ -8,5 +8,9 @@ Validation Accuracy: 92.9%
 Test Accuracy: 88.4%
 
 Inference Speed: ~1000 images/min (GPU)
+
 **Basic Usage**
-After including the zip.tar in the repository, please run the pipeline with python run.py zip1.tar --output-dir ./results 
+After including the zip.tar in the repository, please run the pipeline with 
+```bash
+python run.py zip1.tar --output-dir ./results 
+```
